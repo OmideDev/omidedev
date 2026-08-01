@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋 I'm Omid Taziki</h1>
+<h1 align="center">Hi 👋, I'm Omid Taziki</h1>
 
 <h3 align="center">
 Full-Stack Engineer building production-ready AI applications.
 </h3>
 
 <p align="center">
-
-Currently focused on
-
-Python • FastAPI • LLMs • RAG • AI Agents • Next.js • NestJS
-
+Focused on Python • FastAPI • LLMs • RAG • AI Agents • Next.js • NestJS
 </p>
 
 ---
@@ -18,54 +14,158 @@ Python • FastAPI • LLMs • RAG • AI Agents • Next.js • NestJS
 
 I'm a Full-Stack Engineer with 7+ years of experience building modern web applications.
 
-My background is in React, Next.js and TypeScript, and I'm currently expanding into AI backend engineering with Python, FastAPI, LLMs, RAG and Agentic AI.
+My background is in React, Next.js and TypeScript. I'm currently expanding into AI backend engineering with Python, FastAPI, LLMs, RAG and Agentic AI.
 
-I enjoy building scalable products, clean architectures and developer-friendly systems that are ready for production.
+I enjoy building scalable products, clean architectures and production-ready systems.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js" />
-</p>
+- Python
+- TypeScript
+- JavaScript
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
+- React
+- Next.js
+- Tailwind CSS
 
 ### Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nestjs,nodejs" />
-</p>
+- NestJS
+- FastAPI
+- Node.js
 
-### Database
+### Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
-</p>
+- PostgreSQL
+- MongoDB
+- Redis
 
 ### AI
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-<p>
-
-OpenAI • LangChain • LlamaIndex • RAG • AI Agents • MCP
-
-</p>
+- OpenAI API
+- LangChain
+- LlamaIndex
+- RAG
+- AI Agents
+- MCP
 
 ### DevOps
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,aws" />
-</p>
+- Docker
+- GitHub Actions
+- AWS
 
 ---
+
+## 🎯 Current Focus
+
+- Building production-ready AI products
+- Learning advanced LLM Engineering
+- Designing scalable backend architectures
+- Building AI portfolio projects
+- Preparing for international AI engineering roles
+
+---
+
+## ⭐ Featured Projects
+
+### 🧠 Enterprise AI Knowledge Platform
+
+Production-ready enterprise RAG platform with authentication, hybrid search, citations and workspaces.
+
+**Stack**
+
+Python • FastAPI • PostgreSQL • Redis • Qdrant • Docker
+
+---
+
+### 🤖 Multi-Agent Platform
+
+AI agent orchestration with memory, tool calling and workflow management.
+
+**Stack**
+
+Python • FastAPI • LangGraph • Redis
+
+---
+
+### 📄 RAG Document API
+
+Document understanding, semantic search and citation engine.
+
+**Stack**
+
+Python • FastAPI • OpenAI • PostgreSQL
+
+---
+
+### 🛒 E-commerce Backend API
+
+Production-ready e-commerce backend with authentication, orders, payments and admin dashboard.
+
+**Stack**
+
+NestJS • PostgreSQL • Redis
+
+---
+
+### 🔐 Authentication Service
+
+JWT Authentication, Refresh Tokens, RBAC and OAuth.
+
+**Stack**
+
+NestJS • PostgreSQL • Redis
+
+---
+
+### ✅ Task Management API
+
+RESTful backend with RBAC, queues, notifications and background jobs.
+
+**Stack**
+
+NestJS • PostgreSQL
+
+---
+
+## 🏗 Engineering Principles
+
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- SOLID
+- CQRS
+- Repository Pattern
+- Dependency Injection
+- Event-Driven Design
+- Background Workers
+- Caching
+- Observability
+- Testing
+- API Versioning
+- Conventional Commits
+- Semantic Versioning
+
+---
+
+## 📈 GitHub Analytics
+
+<!-- GitHub Stats -->
+
+<!-- Streak -->
+
+<!-- Top Languages -->
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn
+- Portfolio
+- Email
