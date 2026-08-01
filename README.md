@@ -24,3 +24,48 @@ I enjoy building scalable products, clean architectures and developer-friendly s
 
 ---
 
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nestjs,nodejs" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
+
+### AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p>
+
+OpenAI • LangChain • LlamaIndex • RAG • AI Agents • MCP
+
+</p>
+
+### DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,aws" />
+</p>
+
+---
