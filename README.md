@@ -73,87 +73,65 @@ I enjoy building scalable products, clean architectures and production-ready sys
 
 ---
 
-## ⭐ Featured Projects
+## 🚀 Featured Projects
 
 ### 🧠 Enterprise AI Knowledge Platform
+Production-ready enterprise knowledge platform powered by RAG, hybrid search and multi-agent workflows.
 
-Production-ready enterprise RAG platform with authentication, hybrid search, citations and workspaces.
-
-**Stack**
-
+**Tech**
 Python • FastAPI • PostgreSQL • Redis • Qdrant • Docker
 
----
-
-### 🤖 Multi-Agent Platform
-
-AI agent orchestration with memory, tool calling and workflow management.
-
-**Stack**
-
-Python • FastAPI • LangGraph • Redis
+**Status:** 🟡 In Progress
 
 ---
 
-### 📄 RAG Document API
+### 💬 AI Customer Support
+Multi-channel AI customer support platform with conversations, knowledge retrieval, tool calling and human handoff.
 
-Document understanding, semantic search and citation engine.
+**Tech**
+Python • FastAPI • OpenAI • Redis • PostgreSQL
 
-**Stack**
-
-Python • FastAPI • OpenAI • PostgreSQL
-
----
-
-### 🛒 E-commerce Backend API
-
-Production-ready e-commerce backend with authentication, orders, payments and admin dashboard.
-
-**Stack**
-
-NestJS • PostgreSQL • Redis
+**Status:** ⚪ Coming Soon
 
 ---
 
-### 🔐 Authentication Service
+### 📈 AI CRM
+AI-powered CRM for sales teams with lead scoring, meeting summaries, email generation and workflow automation.
 
-JWT Authentication, Refresh Tokens, RBAC and OAuth.
+**Tech**
+Python • FastAPI • PostgreSQL • Redis • AI Agents
 
-**Stack**
-
-NestJS • PostgreSQL • Redis
-
----
-
-### ✅ Task Management API
-
-RESTful backend with RBAC, queues, notifications and background jobs.
-
-**Stack**
-
-NestJS • PostgreSQL
+**Status:** ⚪ Coming Soon
 
 ---
 
-## 🏗 Engineering Principles
+### 👥 AI HR
+Recruitment platform with resume parsing, candidate ranking, interview assistant and hiring analytics.
 
-- Clean Architecture
-- Domain-Driven Design (DDD)
-- SOLID
-- CQRS
-- Repository Pattern
-- Dependency Injection
-- Event-Driven Design
-- Background Workers
-- Caching
-- Observability
-- Testing
-- API Versioning
-- Conventional Commits
-- Semantic Versioning
+**Tech**
+Python • FastAPI • PostgreSQL • Vector Database
+
+**Status:** ⚪ Coming Soon
 
 ---
 
+### ⚙️ AI Workflow
+Workflow automation platform connecting AI agents, APIs and business processes.
+
+**Tech**
+Python • FastAPI • Redis • Background Workers
+
+**Status:** ⚪ Coming Soon
+
+---
+
+### 🏢 Enterprise AI OS
+Complete enterprise AI operating system with authentication, RBAC, workspaces, memory, observability and multi-agent orchestration.
+
+**Tech**
+Python • FastAPI • PostgreSQL • Redis • Docker • Kubernetes
+
+**Status:** ⚪ Coming Soon
 ## 📈 GitHub Analytics
 
 <!-- GitHub Stats -->
